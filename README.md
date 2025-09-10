@@ -29,14 +29,7 @@ This project requires **R** (≥ 4.0) and the following packages:
 
 ## 🚀 Usage
 
-Clone this repository and open the notebook:
-
-```bash
-git clone https://github.com/MihaiBudurean/SurvivalAnalysisVeteranCancer.git
-cd SurvivalAnalysisVeteranCancer
-```
-
-Then, open `SurvivalAnalysisVeteranCancer.ipynb` in Jupyter with the **IRkernel** (R kernel).
+Open `SurvivalAnalysisVeteranCancer.ipynb` in Jupyter with the **IRkernel** (R kernel).
 
 To install the required R packages:
 
