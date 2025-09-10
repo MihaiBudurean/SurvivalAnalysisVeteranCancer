@@ -17,17 +17,7 @@ Steps include:
 
 ---
 
-## 🛠️ Requirements
-
-This project requires **R** (≥ 4.0) and the following packages:
-
-* `survival`
-* `survminer`
-* `ggplot2`
-
----
-
-## 🚀 Usage
+## 🛠️ Requirements and Usage
 
 Open `SurvivalAnalysisVeteranCancer.ipynb` in Jupyter with the **IRkernel** (R kernel).
 
@@ -36,15 +26,6 @@ To install the required R packages:
 ```r
 install.packages(c("survival", "survminer", "ggplot2"))
 ```
-
----
-
-## 📈 Results
-
-* Survival curves for different patient groups
-* Kaplan–Meier estimation of survival probabilities
-* Cox model showing significant covariates affecting survival time
-
 ---
 
 ## 📂 Files
